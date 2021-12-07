@@ -38,9 +38,43 @@ setwd("~/Documents/GitHub/QTM200Spring2021/problem_sets/PS1")
 #####################
 
 y <- c(105, 69, 86, 100, 82, 111, 104, 110, 87, 108, 87, 90, 94, 113, 112, 98, 80, 97, 95, 111, 114, 89, 95, 126, 98)
-mean(y)
+
+##sample size:
+n<-25
+
+##histogram of data:
+hist(y,freq=FALSE)
+
+>mean(y)
+
+
+
+
+
+#Bar plot of one variable
+barplot(y))
+bp <- barplot(Trump_mode[,2], #use square bracket subsetting to select the second col
+              names.arg = Trump_mode[,1],
+              horiz = TRUE, #Flip our axes
+              las = 1, #rotate our text to fit it in,
+              cex.names = 0.7, #make our axis text a bit smaller to fit
+              main = "Trump Mean Approval Rating by Survey Mode")
+text(bp, 0.1, round(Trump_mode[,2], 2)) 
+
+
+
+
+
+
+
+
+
 #####################
 # Problem 2
 #####################
 
 expenditure <- read.table("https://raw.githubusercontent.com/ASDS-TCD/StatsI_Fall2021/main/datasets/expenditure.txt", header=T)
+
+
+
+

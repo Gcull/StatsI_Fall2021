@@ -1,11 +1,7 @@
-<<<<<<< Updated upstream
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.5)  12 NOV 2021 00:13
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.5)  11 NOV 2021 23:33
->>>>>>> Stashed changes
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.5)  15 OCT 2021 10:26
 entering extended mode
-**./PS03_GC.tex
-(PS03_GC.tex
+**./PS02_GC.tex.tex
+(PS02_GC.tex.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27>
 (C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -848,27 +844,27 @@ tex.def
 File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count332
 \l__pdf_internal_box=\box75
-) (PS03_GC.aux)
-\openout1 = `PS03_GC.aux'.
+) (PS02_GC.tex.aux)
+\openout1 = `PS02_GC.tex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 (C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -895,19 +891,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
 
  (C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
 
 
 (C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package xypdf Info: Line width: 0.47998pt on input line 68.
-Package hyperref Info: Link coloring OFF on input line 68.
+Package xypdf Info: Line width: 0.47998pt on input line 67.
+Package hyperref Info: Link coloring OFF on input line 67.
 
 (C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -921,15 +917,189 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count339
 )
-LaTeX Info: Redefining \ref on input line 68.
-LaTeX Info: Redefining \pageref on input line 68.
-LaTeX Info: Redefining \nameref on input line 68.
- (PS03_GC.out) (PS03_GC.out)
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
+ (PS02_GC.tex.out) (PS02_GC.tex.out)
 \@outlinefile=\write7
-\openout7 = `PS03_GC.out'.
+\openout7 = `PS02_GC.tex.out'.
 
 \c@lstlisting=\count340
+ [1
 
+{C:/Users/gcull/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.117 		t_
+          stat <- (r*sqrt(n-2)) / sqrt(1-r^2))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.118 		
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.118 		
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.118 		
+        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.124 		2*pt(t_
+               stat, n-2, lower.tail=FALSE)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.125 		
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.125 		
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.125 		
+        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+[4]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.181 		regression_
+                   output <- lm(reserved ~ village, data=PREDICTION)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.183 		
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.183 		
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (29.67172pt too wide) in paragraph at lines 181--183
+[]\OT1/cmr/m/n/12 regression$[]\OML/cmm/m/it/12 utput < \OMS/cmsy/m/n/12  \OML/
+cmm/m/it/12 lm\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 reserved []village; data \OT1/c
+mr/m/n/12 = \OML/cmm/m/it/12 PREDICTION\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 print\
+OT1/cmr/m/n/12 (\OML/cmm/m/it/12 regression[]utput\OT1/cmr/m/n/12 )[]$ 
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.183 		
+        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.184 		summary(regression_
+                           output)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.185 		
+        
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.185 		
+        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.185 		
+        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[5]
 (C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
@@ -940,444 +1110,64 @@ File: lstlang2.sty 2020/03/24 1.8d listings language file
 File: lstlang3.sty 2020/03/24 1.8d listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 77.
+nput line 215.
 
-<<<<<<< Updated upstream
-(PS03_GC.pdf) [1
+(PS02_GC.R)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.228 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-{C:/Users/gcull/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (300.62004pt too wide) in paragraph at lines 117--117
-=======
-(PS03_GC.R
-consecutive:
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
-1.
-(C:\Users\gcull\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
-File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
-)
-[1
+! Missing } inserted.
+<inserted text> 
+                }
+l.228 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-{C:/Users/gcull/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Overfull \hbox (300.62004pt too wide) in paragraph at lines 116--116
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 incumbents <- read.csv("https://raw.githubusercontent.com/A
-SDS-TCD/StatsI_Fall2021/main/datasets/incumbents_subset.csv")[] 
- []
-
-
-<<<<<<< Updated upstream
-Overfull \hbox (164.76997pt too wide) in paragraph at lines 127--127
-=======
-Overfull \hbox (164.76997pt too wide) in paragraph at lines 126--126
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 xlab = "Difference campaign spending between incumbent and 
-challenger ( )", ylab = "Voteshare ()")[] 
- []
-
-<<<<<<< Updated upstream
-<Figure1.pdf, id=18, 505.89pt x 505.89pt>
-File: Figure1.pdf Graphic file (type pdf)
-<use Figure1.pdf>
-Package pdftex.def Info: Figure1.pdf  used on input line 130.
-(pdftex.def)             Requested size: 422.77664pt x 422.7833pt.
-
-Overfull \hbox (195.64499pt too wide) in paragraph at lines 141--141
-=======
-<Figure1.pdf, id=23, 505.89pt x 505.89pt>
-File: Figure1.pdf Graphic file (type pdf)
-<use Figure1.pdf>
-Package pdftex.def Info: Figure1.pdf  used on input line 129.
-(pdftex.def)             Requested size: 422.77664pt x 422.7833pt.
-
-Overfull \hbox (195.64499pt too wide) in paragraph at lines 140--140
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 #mean of outcome variable = the y-intercept or constant + s
-lope of predictor1 multiplied by predictor 1[] 
- []
-
-[2] [3 <./Figure1.pdf>] [4]
-<<<<<<< Updated upstream
-Overfull \hbox (158.59497pt too wide) in paragraph at lines 189--189
-=======
-Overfull \hbox (158.59497pt too wide) in paragraph at lines 188--188
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 xlab = "Difference campaign spending between incumbent and 
-challenger ( )", ylab = "Presvote ()")[] 
- []
-
-[5]
-<<<<<<< Updated upstream
-<Figure2.pdf, id=45, 505.89pt x 505.89pt>
-File: Figure2.pdf Graphic file (type pdf)
-<use Figure2.pdf>
-Package pdftex.def Info: Figure2.pdf  used on input line 192.
-(pdftex.def)             Requested size: 256.0748pt x 256.07838pt.
-
-Overfull \hbox (166.2703pt too wide) in paragraph at lines 204--204
-=======
-<Figure2.pdf, id=50, 505.89pt x 505.89pt>
-File: Figure2.pdf Graphic file (type pdf)
-<use Figure2.pdf>
-Package pdftex.def Info: Figure2.pdf  used on input line 191.
-(pdftex.def)             Requested size: 256.0748pt x 256.07838pt.
-
-Overfull \hbox (166.2703pt too wide) in paragraph at lines 203--203
->>>>>>> Stashed changes
-[]\OT1/cmtt/m/n/12 #mean of outcome variable = the y-intercept or constant + sl
-ope of predictor1 multiplied by predictor 1[] 
- []
-
-[6 <./Figure2.pdf>] [7]
-<<<<<<< Updated upstream
-Overfull \hbox (164.76997pt too wide) in paragraph at lines 251--251
-=======
-Overfull \hbox (164.76997pt too wide) in paragraph at lines 250--250
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 xlab = "Difference campaign spending between incumbent and 
-challenger ( )", ylab = "Voteshare ()")[] 
- []
-
-<<<<<<< Updated upstream
-<Figure3.pdf, id=64, 177.66376pt x 346.29375pt>
-File: Figure3.pdf Graphic file (type pdf)
-<use Figure3.pdf>
-Package pdftex.def Info: Figure3.pdf  used on input line 254.
-=======
-<Figure3.pdf, id=69, 177.66376pt x 346.29375pt>
-File: Figure3.pdf Graphic file (type pdf)
-<use Figure3.pdf>
-Package pdftex.def Info: Figure3.pdf  used on input line 253.
->>>>>>> Stashed changes
-(pdftex.def)             Requested size: 227.62204pt x 443.68248pt.
 ! Extra }, or forgotten \endgroup.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-<<<<<<< Updated upstream
-l.255 \end{figure}
-=======
-l.254 \end{figure}
->>>>>>> Stashed changes
-                  
+\@par ... \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.228 
+      
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-<<<<<<< Updated upstream
-l.255 \end{figure}
-=======
-l.254 \end{figure}
->>>>>>> Stashed changes
-                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-<<<<<<< Updated upstream
-l.255 \end{figure}
-=======
-l.254 \end{figure}
->>>>>>> Stashed changes
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-<<<<<<< Updated upstream
-l.255 \end{figure}
-=======
-l.254 \end{figure}
->>>>>>> Stashed changes
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-<<<<<<< Updated upstream
-l.258 \item W
-=======
-l.257 \item W
->>>>>>> Stashed changes
-             rite the prediction equation.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-<<<<<<< Updated upstream
-Underfull \hbox (badness 10000) detected at line 258
-=======
-Underfull \hbox (badness 10000) detected at line 257
->>>>>>> Stashed changes
-[][]
- []
-
-
-! LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-<<<<<<< Updated upstream
-l.259 \end{enumerate}
-=======
-l.258 \end{enumerate}
->>>>>>> Stashed changes
+[6] [7])
+Runaway argument?
+Call: lm1 < - lm(subset$lifespan~subset$thorax)>summary(lm1)Tes\ETC.
+! File ended while scanning use of \@xverbatim.
+<inserted text> 
+                \par 
+<*> ./PS02_GC.tex.tex
                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-<<<<<<< Updated upstream
-l.259 \end{enumerate}
-=======
-l.258 \end{enumerate}
->>>>>>> Stashed changes
+! Emergency stop.
+<*> ./PS02_GC.tex.tex
                      
-Things are pretty mixed up, but I think the worst is over.
+*** (job aborted, no legal \end found)
 
-
-<<<<<<< Updated upstream
-Overfull \hbox (166.2703pt too wide) in paragraph at lines 264--264
-=======
-Overfull \hbox (166.2703pt too wide) in paragraph at lines 263--263
->>>>>>> Stashed changes
-[]\OT1/cmtt/m/n/12 #mean of outcome variable = the y-intercept or constant + sl
-ope of predictor1 multiplied by predictor 1[] 
- []
-
-[8 <./Figure3.pdf>] [9] [10]
-<<<<<<< Updated upstream
-<Figure4.pdf, id=85, 177.66376pt x 346.29375pt>
-File: Figure4.pdf Graphic file (type pdf)
-<use Figure4.pdf>
-Package pdftex.def Info: Figure4.pdf  used on input line 304.
-=======
-<Figure4.pdf, id=90, 177.66376pt x 346.29375pt>
-File: Figure4.pdf Graphic file (type pdf)
-<use Figure4.pdf>
-Package pdftex.def Info: Figure4.pdf  used on input line 303.
->>>>>>> Stashed changes
-(pdftex.def)             Requested size: 227.62204pt x 443.68248pt.
-
-! Extra }, or forgotten \endgroup.
-\@endfloatbox ...pagefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-<<<<<<< Updated upstream
-l.305 \end{figure}
-=======
-l.304 \end{figure}
->>>>>>> Stashed changes
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-<<<<<<< Updated upstream
-l.305 \end{figure}
-=======
-l.304 \end{figure}
->>>>>>> Stashed changes
-                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-<<<<<<< Updated upstream
-l.305 \end{figure}
-=======
-l.304 \end{figure}
->>>>>>> Stashed changes
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-<<<<<<< Updated upstream
-l.305 \end{figure}
-=======
-l.304 \end{figure}
->>>>>>> Stashed changes
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-<<<<<<< Updated upstream
-l.307 \item W
-=======
-l.306 \item W
->>>>>>> Stashed changes
-             rite the prediction equation.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-<<<<<<< Updated upstream
-Underfull \hbox (badness 10000) detected at line 307
-=======
-Underfull \hbox (badness 10000) detected at line 306
->>>>>>> Stashed changes
-[][]
- []
-
-
-! LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-<<<<<<< Updated upstream
-l.308 \end{enumerate}
-=======
-l.307 \end{enumerate}
->>>>>>> Stashed changes
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-<<<<<<< Updated upstream
-l.308 \end{enumerate}
-=======
-l.307 \end{enumerate}
->>>>>>> Stashed changes
-                     
-Things are pretty mixed up, but I think the worst is over.
-
-
-<<<<<<< Updated upstream
-Overfull \hbox (166.2703pt too wide) in paragraph at lines 313--313
-=======
-Overfull \hbox (166.2703pt too wide) in paragraph at lines 312--312
->>>>>>> Stashed changes
-[]\OT1/cmtt/m/n/12 #mean of outcome variable = the y-intercept or constant + sl
-ope of predictor1 multiplied by predictor 1[] 
- []
-
-[11 <./Figure4.pdf>]
-<<<<<<< Updated upstream
-Overfull \hbox (59.79492pt too wide) in paragraph at lines 353--353
-=======
-Overfull \hbox (59.79492pt too wide) in paragraph at lines 352--352
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 regression_model_problem5 <- lm( voteshare ~ difflog + pres
-vote, data=incumbents)[] 
- []
-
-
-<<<<<<< Updated upstream
-Overfull \hbox (485.87013pt too wide) in paragraph at lines 361--361
-=======
-Overfull \hbox (485.87013pt too wide) in paragraph at lines 360--360
->>>>>>> Stashed changes
- []\OT1/cmtt/m/n/12 #mean of outcome variable = the y-intercept or constant + s
-lope of predictor1 multiplied by predictor1 + slope of predictor2 multiplied by
- predictor 2[] 
- []
-
-[12]
-<<<<<<< Updated upstream
-Overfull \hbox (258.89534pt too wide) in paragraph at lines 369--369
-=======
-Overfull \hbox (258.89534pt too wide) in paragraph at lines 368--368
->>>>>>> Stashed changes
-[]\OT1/cmtt/m/n/12 The mean of outcome variable - the slope numeric amount is t
-he same in each equation due to the residuals object used.[] 
- []
-
-[13] (PS03_GC.aux)
-Package rerunfilecheck Info: File `PS03_GC.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+ 
 Here is how much of TeX's memory you used:
-<<<<<<< Updated upstream
- 26313 strings out of 478927
- 454091 string characters out of 2852535
- 952545 words of memory out of 3000000
- 43657 multiletter control sequences out of 15000+600000
- 413534 words of font info for 70 fonts, out of 8000000 for 9000
+ 26282 strings out of 478927
+ 453656 string characters out of 2852535
+ 957120 words of memory out of 3000000
+ 43639 multiletter control sequences out of 15000+600000
+ 414525 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,3241b,1856s stack positions out of 5000i,500n,10000p,200000b,80000s
-=======
- 26339 strings out of 478927
- 454534 string characters out of 2852535
- 956545 words of memory out of 3000000
- 43677 multiletter control sequences out of 15000+600000
- 413534 words of font info for 70 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 84i,6n,89p,3241b,2105s stack positions out of 5000i,500n,10000p,200000b,80000s
->>>>>>> Stashed changes
- <C:\Users\gcull\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/gcull/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/gcull/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><C:/Users/gcull/AppData/Local/Programs/MiKTeX/fonts/t
-<<<<<<< Updated upstream
-ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/gcull/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/gcull/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on PS03_GC.pdf (13 pages, 831687 bytes).
-PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
-=======
-ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/gcull/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/gcull/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/gcull/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/gcull/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gcu
-ll/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on PS03_GC.pdf (13 pages, 862098 bytes).
-PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
->>>>>>> Stashed changes
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 84i,9n,89p,3245b,1990s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
